@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/mediband-mockup/static/css/main.e6c13ad2.css",
+    "main.css": "/mediband-mockup/static/css/main.31d6cfe0.css",
     "main.js": "/mediband-mockup/static/js/main.3b40e34d.js",
     "static/js/453.c6bf7806.chunk.js": "/mediband-mockup/static/js/453.c6bf7806.chunk.js",
     "index.html": "/mediband-mockup/index.html",
-    "main.e6c13ad2.css.map": "/mediband-mockup/static/css/main.e6c13ad2.css.map",
     "main.3b40e34d.js.map": "/mediband-mockup/static/js/main.3b40e34d.js.map",
     "453.c6bf7806.chunk.js.map": "/mediband-mockup/static/js/453.c6bf7806.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
+    "static/css/main.31d6cfe0.css",
     "static/js/main.3b40e34d.js"
   ]
 }
